@@ -1,9 +1,9 @@
 # NameInProgress
 
-* Tactical Turn per Turn Game *
+## Tactical Turn per Turn Game
 
-** Règles:
-- Sytème de jeu au tour par tour
+### Règles:
+**Sytème de jeu au tour par tour
 - Invocation de troupes par cartes consommant des ressources
 - Récupération de ressources après chaques tours
 - Contrôle du terrain par déplacement des troupes invoqués
@@ -15,7 +15,7 @@
 - Découpe des troupes en plusieurs factions (A voir)
 - Si des troupes de la même faction sont sur des cases adjacentes, un
 
-** Technologies
+### Technologies
 C++
 
-** DATAS
+### DATAS
