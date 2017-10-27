@@ -3,7 +3,7 @@
 ## Tactical Turn per Turn Game
 
 ### Règles:
-**Sytème de jeu au tour par tour
+- Sytème de jeu au tour par tour
 - Invocation de troupes par cartes consommant des ressources
 - Récupération de ressources après chaques tours
 - Contrôle du terrain par déplacement des troupes invoqués
